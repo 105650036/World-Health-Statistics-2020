@@ -7,6 +7,7 @@
 
 
 之後我對非洲地區去做分析 這次把male female both 三項數據分開來看 可以看出非洲整體的預期壽命也是逐步上升 其中女性的預期壽命比男性高
+
 ![Africa's LifeExpectancy over time](https://user-images.githubusercontent.com/49279418/105993507-76aeb000-60e1-11eb-84fa-12450d480591.png)
 
 
