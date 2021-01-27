@@ -1,5 +1,5 @@
 # World-Health-Statistics-2020
-以下是透過kaggle的數據來做分析 資料跟程式放在一起
+以下是透過kaggle的數據來做分析 資料跟程式放資料夾內
 
 
 首先我對 Afghanistan(阿富汗)的預期壽命的時間變化做分析 而數據是把三個值(male female both)做平均 可以看出預期壽命是逐漸上升的
